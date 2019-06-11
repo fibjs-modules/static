@@ -1,0 +1,12 @@
+{
+  "name": "@fibjs/static",
+  "version": "1.0.0",
+  "description": "A static server written in fibjs.",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "static": "bin/static.js"
+  },
+  "author": "ngot",
+  "license": "MIT"
+}
